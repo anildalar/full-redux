@@ -1,3 +1,14 @@
+header,footer{
+  min-height: 200px;
+  border:1px dashed red;
+}
+main{
+  min-height: 600px;
+  border:1px dashed green;
+}
+aside,section{
+  border:1px dashed blue;
+}
 .App {
   text-align: center;
 }
